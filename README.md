@@ -3,6 +3,15 @@ My own first-ever custom devboard! It will also include a LED which turns on and
 
 This project was one of the first times I designed a complex PCB and I'm going to be honest it was really hard to learn how to create this at first. I think I spent around 3-4 days trying to understand how to do everything, from the schematics to the actual PCB design. In the end, though, I'm really happy that I was able to learn how to create it and this will probably be one of those projects I'll remember for a very long time.
 
+# Final Pictures
+Here are the pictures of my devboard after it was successfully soldered!
+- Front
+- <img width="3024" height="4032" alt="IMG_5330" src="https://github.com/user-attachments/assets/41023fd1-53b7-4f3e-8803-7735bd06ec50" />
+
+- Back
+- <img width="3024" height="4032" alt="IMG_5331" src="https://github.com/user-attachments/assets/445c4329-8185-4edf-9685-cba40b85e96c" />
+
+
 # PCB
 I used KiCad for every step of creating Devy, and it saved me a lot of time I would say.
 
